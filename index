@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Test Page</title>
+<link rel="stylesheet" href="stylepage.css">
+</head>
+<body>
+<h1>Project 2 Home Page - Lori Thomas</h1>
+<h4>Links to Project 2 Pages:</h4>
+<p>
+<table>
+  <tr>
+    <td><a href="aboutme.html">About Me</a></td>
+    <td><a href="resources.html">Resources</a></td>
+    <td><a href="techhero.html">Tech Hero</a></td>
+  </tr>
+</table>
+</p>
+<p>Project 2 Requirement:  A welcome or "splash" page, where visitors get first impressions of your work. </p>
+<p>Instructions:  Personalize your home page for Project 2.  Feel free to add images and text.  Explore HTML and CSS to code your homepage.
+</body>
+</html>
